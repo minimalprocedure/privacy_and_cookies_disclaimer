@@ -1,2 +1,2 @@
-# privacy_and_cookies_disclaimer
-privacy and cookies disclaimer
+this project has migrated to gitlab.
+Same url but on gitlab.com insted github.com
